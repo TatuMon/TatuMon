@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/-Git-05122A?style=flat&amp;logo=git" alt="Git">&nbsp;
   <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&amp;logo=github" alt="GitHub">&nbsp;<br>
   <img src="https://img.shields.io/badge/Bitbucket-05122A?style=flat&logo=Bitbucket&logoColor=%230052CC" alt="Bitbucket">&nbsp;
-  <img src="https://img.shields.io/badge/-Markdown-05122A?style=flat&amp;logo=markdown" alt="Markdown">
+  <img src="https://img.shields.io/badge/Jira-05122A?style=flat&logo=jira&logoColor=%230052CC" alt="Jira">&nbsp;
   <img src="https://img.shields.io/badge/Neovim-05122A?style=flat&logo=neovim" alt="Neovim">&nbsp;
   <img src="https://img.shields.io/badge/Linux-05122A?style=flat&logo=linux" alt="Linux">
 </p>
