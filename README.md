@@ -7,7 +7,6 @@
   🌱 &nbsp;I'm primarily a web developer, but I also like to build some tools.<br>
   🕵🏼‍♂️ &nbsp;Check out my <a href="https://portfolio-two-sigma-91.vercel.app/">portfolio</a> for more details about me. I’m open to feedback and suggestions!
 </p>
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right">
 <h3 id="-tech-stack">🛠 &nbsp;Tech I Work With</h3>
 <p>
   <img src="https://img.shields.io/badge/Golang-05122A?style=flat&logo=go" alt="Golang">&nbsp;
