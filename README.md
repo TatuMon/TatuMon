@@ -12,7 +12,8 @@
   <img src="https://img.shields.io/badge/Golang-05122A?style=flat&logo=go" alt="Golang">&nbsp;
   <img src="https://img.shields.io/badge/Rust-05122A?style=flat&logo=rust" alt="Rust">&nbsp;
   <img src="https://img.shields.io/badge/Nix-05122A?style=flat&logo=nixos" alt="Nix">&nbsp;
-  <img src="https://img.shields.io/badge/PHP-05122A?style=flat&logo=php" alt="PHP">&nbsp;<br>
+  <img src="https://img.shields.io/badge/PHP-05122A?style=flat&logo=php" alt="PHP">&nbsp;
+  <img src="https://img.shields.io/badge/Docker-05122A?style=flat&logo=Docker" alt="Docker">&nbsp;<br>
   <img src="https://img.shields.io/badge/-Python-05122A?style=flat&amp;logo=python" alt="Python">&nbsp;
   <img src="https://img.shields.io/badge/NodeJS-05122A?style=flat&logo=nodedotjs" alt="NodeJS">&nbsp;
   <img src="https://img.shields.io/badge/-Git-05122A?style=flat&amp;logo=git" alt="Git">&nbsp;
